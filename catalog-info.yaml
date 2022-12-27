@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-3
+  description: An example deployment of a Backstage application.
+spec:
+  type: website
+  owner: test
+  lifecycle: experimental
