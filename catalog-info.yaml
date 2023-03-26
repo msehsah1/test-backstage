@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: test88
   description: Replace me with a real description.
+  annotations:
+    github.com/project-slug: test-backstage
   tags:
     - go
     - website
